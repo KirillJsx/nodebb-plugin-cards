@@ -4,3 +4,7 @@ node_modules/
 *.sublime-workspace
 .project
 .idea
+# Environment
+.env
+.env.*
+!.env.example
